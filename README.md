@@ -47,6 +47,8 @@ npm install
 npm start
 
 ```
+This worked for me, but you may need some extra dependencies
+
 Enjoy!!
 
 This project was created with the help of google Gemini
