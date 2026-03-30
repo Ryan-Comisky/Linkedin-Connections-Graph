@@ -1,5 +1,8 @@
 # LinkedIn Connections Graph view
 
+<img width="1295" height="623" alt="cropped image" src="https://github.com/user-attachments/assets/b93cd0d0-a2b9-4230-b3a4-5b1de8ff1bb5" />
+
+
 A local desktop application that transforms your standard LinkedIn network into an interactive, physics-driven, Obsidian-style knowledge graph. See how your network is clustered by companies, schools, and organizations in real-time.
 
 ## Features
