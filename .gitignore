@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Personal Data (DO NOT UPLOAD TO GITHUB)
+*.csv
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs
+dist/
+dist-electron/
+release/

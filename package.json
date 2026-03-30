@@ -1,0 +1,23 @@
+{
+  "name": "linkedin-obsidian-graph",
+  "version": "1.0.0",
+  "description": "An Obsidian-style visualizer for your LinkedIn connections.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "start-electron": "electron .",
+    "start": "concurrently \"npm run dev\" \"npm run start-electron\""
+  },
+  "dependencies": {
+    "cytoscape": "^3.29.0",
+    "papaparse": "^5.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "concurrently": "^8.2.2",
+    "electron": "^41.1.0",
+    "vite": "^7.0.0"
+  }
+}
