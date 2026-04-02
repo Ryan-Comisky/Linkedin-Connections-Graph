@@ -50,8 +50,7 @@ npm start
 This worked for me, but you may need some extra dependencies
 
 ### 5. Troubleshooting
-*Check the CSV file, LinkedIn adds a few extra rows to the top of the CSV file causing the app to not recognize it. Delete those rows before uploading the file to the app
-*If running slowly, close other apps to make the program run faster,
+*Check the CSV file, LinkedIn adds a few extra rows to the top of the CSV file causing the app to not recognize it. Delete those rows before uploading the file to the app *If running slowly, close other apps to make the program run faster,
   optimized version is on the way
 
 Enjoy!!
